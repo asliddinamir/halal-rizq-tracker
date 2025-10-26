@@ -47,6 +47,18 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        halal: {
+          DEFAULT: "hsl(var(--halal))",
+          foreground: "hsl(var(--halal-foreground))",
+        },
+        doubtful: {
+          DEFAULT: "hsl(var(--doubtful))",
+          foreground: "hsl(var(--doubtful-foreground))",
+        },
+        haram: {
+          DEFAULT: "hsl(var(--haram))",
+          foreground: "hsl(var(--haram-foreground))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
